@@ -1,3 +1,27 @@
+<div align="center">
+
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,20,12,4,0&height=220&section=header&text=Vibe%20Security%20Skills&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%9B%A1%EF%B8%8F%20Security%20Vulnerability%20Scanner%20for%20Vibe-Coded%20AI%20Applications&descAlignY=62&descAlign=50" width="100%" alt="Vibe Security Skills 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/vibe-security-skills">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="95" height="95" alt="Vibe Security Skills 3D Icon" />
+  </a>
+
+  <h1>Vibe Security Skills</h1>
+  <p><b>🛡️ Security Vulnerability Scanner for Vibe-Coded AI Applications</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,markdown,git&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 <p align="center">
     <img src="https://img.shields.io/badge/security-vibe--coded%20apps-DC2626.svg" alt="Security for vibe-coded apps" />
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -85,3 +109,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 Vibe Security is available under the MIT License. See [LICENSE](LICENSE) for details.
 
 Created by [Chris Raroque](https://www.youtube.com/@raroque) ([@raroque](https://twitter.com/raroque)) and the team at [Aloa](https://aloa.co).
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,20,12,4,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
